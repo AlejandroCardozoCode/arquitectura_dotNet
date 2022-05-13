@@ -10,6 +10,7 @@ namespace dotnet
         {
             var db = new arquitecturaContext();
             var usuarios = db.Usuarios.ToList();
+            Console.WriteLine(usuarios.GetType);
             Console.WriteLine("Usuarios del sistema");
             foreach (var us in usuarios)
             {
