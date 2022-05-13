@@ -710,11 +710,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Aleja\\Desktop\\dotnet\\dotnet.csproj",
+      "projectUniqueName": "c:\\Users\\Aleja\\Documents\\GitHub\\arquitectura_dotNet\\dotnet\\dotnet.csproj",
       "projectName": "dotnet",
-      "projectPath": "C:\\Users\\Aleja\\Desktop\\dotnet\\dotnet.csproj",
+      "projectPath": "c:\\Users\\Aleja\\Documents\\GitHub\\arquitectura_dotNet\\dotnet\\dotnet.csproj",
       "packagesPath": "C:\\Users\\Aleja\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Aleja\\Desktop\\dotnet\\obj\\",
+      "outputPath": "c:\\Users\\Aleja\\Documents\\GitHub\\arquitectura_dotNet\\dotnet\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Aleja\\AppData\\Roaming\\NuGet\\NuGet.Config"

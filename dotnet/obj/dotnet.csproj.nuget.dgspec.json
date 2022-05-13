@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Aleja\\Desktop\\dotnet\\dotnet.csproj": {}
+    "c:\\Users\\Aleja\\Documents\\GitHub\\arquitectura_dotNet\\dotnet\\dotnet.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Aleja\\Desktop\\dotnet\\dotnet.csproj": {
+    "c:\\Users\\Aleja\\Documents\\GitHub\\arquitectura_dotNet\\dotnet\\dotnet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Aleja\\Desktop\\dotnet\\dotnet.csproj",
+        "projectUniqueName": "c:\\Users\\Aleja\\Documents\\GitHub\\arquitectura_dotNet\\dotnet\\dotnet.csproj",
         "projectName": "dotnet",
-        "projectPath": "c:\\Users\\Aleja\\Desktop\\dotnet\\dotnet.csproj",
+        "projectPath": "c:\\Users\\Aleja\\Documents\\GitHub\\arquitectura_dotNet\\dotnet\\dotnet.csproj",
         "packagesPath": "C:\\Users\\Aleja\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Aleja\\Desktop\\dotnet\\obj\\",
+        "outputPath": "c:\\Users\\Aleja\\Documents\\GitHub\\arquitectura_dotNet\\dotnet\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Aleja\\AppData\\Roaming\\NuGet\\NuGet.Config"

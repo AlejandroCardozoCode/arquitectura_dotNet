@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uPZGIuFm6nGougfx+we2P9gmd/2pUl1HyTsyD6cXYdukyprBQ+kZV7+fja5OfttFaVTMGx+YZeZYCn1yYbVr2Q==",
+  "dgSpecHash": "hcmVhsSD5p8/7YlcFmt84L3d+kxbH05YJDHDY5C0R4s7LWwSPhwMGccAyLVlBnPw8lhshh5TqYkjDmx/K3uGgQ==",
   "success": true,
-  "projectFilePath": "c:\\Users\\Aleja\\Desktop\\dotnet\\dotnet.csproj",
+  "projectFilePath": "c:\\Users\\Aleja\\Documents\\GitHub\\arquitectura_dotNet\\dotnet\\dotnet.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Aleja\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Aleja\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.5\\microsoft.entityframeworkcore.6.0.5.nupkg.sha512",
