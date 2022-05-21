@@ -17,6 +17,7 @@ namespace Api.Models
         }
 
         public virtual DbSet<Producto> Productos { get; set; } = null!;
+        public virtual DbSet<Productost1> Productost1s { get; set; } = null!;
         public virtual DbSet<Usuario> Usuarios { get; set; } = null!;
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
@@ -51,6 +52,30 @@ namespace Api.Models
                 entity.Property(e => e.Precio).HasColumnName("precio");
 
                 entity.Property(e => e.Stock).HasColumnName("stock");
+            });
+
+            modelBuilder.Entity<Productost1>(entity =>
+            {
+                entity.HasKey(e => e.Idproducto)
+                    .HasName("PRIMARY");
+
+                entity.ToTable("productost1");
+
+                entity.Property(e => e.Idproducto)
+                    .ValueGeneratedNever()
+                    .HasColumnName("idproducto");
+
+                entity.Property(e => e.Nombre)
+                    .HasMaxLength(45)
+                    .HasColumnName("nombre");
+
+                entity.Property(e => e.Precio).HasColumnName("precio");
+
+                entity.Property(e => e.Presentacion)
+                    .HasMaxLength(45)
+                    .HasColumnName("presentacion");
+
+                entity.Property(e => e.Unidades).HasColumnName("unidades");
             });
 
             modelBuilder.Entity<Usuario>(entity =>

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JWhi1dZT33N611BNcJjqTMl/Zwq8shZ0tfjYszORQfR4slXGKrz6USIF5jVJTAy3evoOVWu9sEMnCdVbyhDhSw==",
+  "dgSpecHash": "JPuWTa3je68PDAiZbE4Z2qatoYUwdSqQS5n1dcUUUOPtYoAMtIC10OR9UuD5F0TSSoOKP/fgxfUk/RhSud9bVA==",
   "success": true,
-  "projectFilePath": "c:\\Users\\Aleja\\Desktop\\ntier\\ApiDatos\\Api.csproj",
+  "projectFilePath": "c:\\Users\\Aleja\\Documents\\GitHub\\arquitectura_dotNet\\ntier\\ApiDatos\\Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Aleja\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Aleja\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.5\\microsoft.entityframeworkcore.6.0.5.nupkg.sha512",

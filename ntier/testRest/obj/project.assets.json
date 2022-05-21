@@ -5315,11 +5315,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Aleja\\Desktop\\ntier\\testRest\\testRest.csproj",
+      "projectUniqueName": "c:\\Users\\Aleja\\Documents\\GitHub\\arquitectura_dotNet\\ntier\\testRest\\testRest.csproj",
       "projectName": "testRest",
-      "projectPath": "c:\\Users\\Aleja\\Desktop\\ntier\\testRest\\testRest.csproj",
+      "projectPath": "c:\\Users\\Aleja\\Documents\\GitHub\\arquitectura_dotNet\\ntier\\testRest\\testRest.csproj",
       "packagesPath": "C:\\Users\\Aleja\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Aleja\\Desktop\\ntier\\testRest\\obj\\",
+      "outputPath": "c:\\Users\\Aleja\\Documents\\GitHub\\arquitectura_dotNet\\ntier\\testRest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Aleja\\AppData\\Roaming\\NuGet\\NuGet.Config"

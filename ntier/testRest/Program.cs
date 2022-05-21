@@ -2,7 +2,12 @@
 using System.Threading.Tasks;
 class Program
 {
-    static async Task Main(string[] args)
+    static void Main(string[] args)
+    {
+        Task<string> valor = calli();
+        Console.WriteLine(valor.Result);
+    }
+    static async Task<string> calli()
     {
         var url = "https://localhost:7006/Usuario";
         HttpClientHandler clientHandler = new HttpClientHandler();
@@ -11,8 +16,7 @@ class Program
         {
             var respuesta = await httpClient.GetAsync(url);
             var respuestastring = await respuesta.Content.ReadAsStringAsync();
-            Console.WriteLine(respuestastring);
-
+            return respuestastring;
         }
     }
 }

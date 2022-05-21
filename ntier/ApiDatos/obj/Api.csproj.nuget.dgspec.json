@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Aleja\\Desktop\\ntier\\ApiDatos\\Api.csproj": {}
+    "c:\\Users\\Aleja\\Documents\\GitHub\\arquitectura_dotNet\\ntier\\ApiDatos\\Api.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Aleja\\Desktop\\ntier\\ApiDatos\\Api.csproj": {
+    "c:\\Users\\Aleja\\Documents\\GitHub\\arquitectura_dotNet\\ntier\\ApiDatos\\Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Aleja\\Desktop\\ntier\\ApiDatos\\Api.csproj",
+        "projectUniqueName": "c:\\Users\\Aleja\\Documents\\GitHub\\arquitectura_dotNet\\ntier\\ApiDatos\\Api.csproj",
         "projectName": "Api",
-        "projectPath": "c:\\Users\\Aleja\\Desktop\\ntier\\ApiDatos\\Api.csproj",
+        "projectPath": "c:\\Users\\Aleja\\Documents\\GitHub\\arquitectura_dotNet\\ntier\\ApiDatos\\Api.csproj",
         "packagesPath": "C:\\Users\\Aleja\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Aleja\\Desktop\\ntier\\ApiDatos\\obj\\",
+        "outputPath": "c:\\Users\\Aleja\\Documents\\GitHub\\arquitectura_dotNet\\ntier\\ApiDatos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Aleja\\AppData\\Roaming\\NuGet\\NuGet.Config"

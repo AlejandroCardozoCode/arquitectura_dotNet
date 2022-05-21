@@ -15,6 +15,7 @@ public class UsuarioController : ControllerBase
     [HttpGet(Name = "GetUsuario")]
     public List<Usuario> Get()
     {
+        Console.WriteLine("[INFO]: Llego una solicitud para obtener la lista de usuarios");
         var db = new arquitecturaContext();
         /*
         using (var context = arquitecturaContext)

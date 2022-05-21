@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nC6qdmyZTaI5RO2l/O6tti1CiiBEhXejWpOUFVM9WhNxFloDMhIrVbb4U9KMW/wQAzxVTXPAQpFoNp7LWE8IWQ==",
+  "dgSpecHash": "ZWYrWKQs3Ua4zZqGRve4BT9rT5CuTeBmU9f49BZkgvzNXdT+6nA37xzeohjLj+jI6u2iliCsrcJRg6JKoBk5AQ==",
   "success": true,
-  "projectFilePath": "c:\\Users\\Aleja\\Desktop\\ntier\\testRest\\testRest.csproj",
+  "projectFilePath": "c:\\Users\\Aleja\\Documents\\GitHub\\arquitectura_dotNet\\ntier\\testRest\\testRest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Aleja\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.8\\microsoft.aspnet.webapi.client.5.2.8.nupkg.sha512",
     "C:\\Users\\Aleja\\.nuget\\packages\\microsoft.aspnet.webapi.core\\5.2.8\\microsoft.aspnet.webapi.core.5.2.8.nupkg.sha512",
