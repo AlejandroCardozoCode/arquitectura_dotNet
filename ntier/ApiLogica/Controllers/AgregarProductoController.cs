@@ -15,26 +15,15 @@ public class AgregarProductosController : ControllerBase
         _logger = logger;
     }
     [HttpPost]
-    public async void Post()
+    public async void Post(Productost1 producto)
     {
         var url = "https://localhost:7016/AgregarProductoDB";
         HttpClientHandler clientHandler = new HttpClientHandler();
         clientHandler.ServerCertificateCustomValidationCallback = (sender, cert, chain, sslPolicyErrors) => { return true; };
         using (var httpClient = new HttpClient(clientHandler))
         {
-
-            Productost1 productoNuevo = new Productost1
-            {
-                Idproducto = 123131,
-                Nombre = "test",
-                Precio = 3000,
-                Presentacion = "melo",
-                Unidades = 69,
-            };
-            var respuesta = httpClient.PostAsJsonAsync(url, productoNuevo).Result;
-            Console.WriteLine(respuesta.Content.ReadAsStreamAsync().Result);
+            var respuesta = httpClient.PostAsJsonAsync(url, producto).Result;
         }
 
     }
-
 }
