@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "alY3KD51tKR0DAnk5gNCMOny8aAxkKtlmMMQ6gYgL2A4qfGr8N2xFjpaIP+wJH+4Pc2pg7lkoXYwLIlvmPr5ZQ==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\Aleja\\Desktop\\safsf\\safsf.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aleja\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

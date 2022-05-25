@@ -1,0 +1,140 @@
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Api\bin\Debug\net6.0\appsettings.json
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Api\bin\Debug\net6.0\Api.exe
+c:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Api\bin\Debug\net6.0\Api.deps.json
+c:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Api\bin\Debug\net6.0\Api.runtimeconfig.json
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Api\bin\Debug\net6.0\Api.dll
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Api\bin\Debug\net6.0\Api.pdb
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Api\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Api\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Api\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Api\obj\Debug\net6.0\Api.csproj.AssemblyReference.cache
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Api\obj\Debug\net6.0\Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Api\obj\Debug\net6.0\Api.AssemblyInfoInputs.cache
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Api\obj\Debug\net6.0\Api.AssemblyInfo.cs
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Api\obj\Debug\net6.0\Api.csproj.CoreCompileInputs.cache
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Api\obj\Debug\net6.0\Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Api\obj\Debug\net6.0\Api.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Api\obj\Debug\net6.0\staticwebassets.build.json
+c:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Api\obj\Debug\net6.0\scopedcss\bundle\Api.styles.css
+c:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Api\obj\Debug\net6.0\Api.csproj.CopyComplete
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Api\obj\Debug\net6.0\Api.dll
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Api\obj\Debug\net6.0\refint\Api.dll
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Api\obj\Debug\net6.0\Api.pdb
+c:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Api\obj\Debug\net6.0\Api.genruntimeconfig.cache
+c:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Api\obj\Debug\net6.0\ref\Api.dll
+C:\Users\Aleja\Desktop\ntier\ApiDatos\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Aleja\Desktop\ntier\ApiDatos\bin\Debug\net6.0\appsettings.json
+C:\Users\Aleja\Desktop\ntier\ApiDatos\bin\Debug\net6.0\Api.exe
+c:\Users\Aleja\Desktop\ntier\ApiDatos\bin\Debug\net6.0\Api.deps.json
+c:\Users\Aleja\Desktop\ntier\ApiDatos\bin\Debug\net6.0\Api.runtimeconfig.json
+C:\Users\Aleja\Desktop\ntier\ApiDatos\bin\Debug\net6.0\Api.dll
+C:\Users\Aleja\Desktop\ntier\ApiDatos\bin\Debug\net6.0\Api.pdb
+C:\Users\Aleja\Desktop\ntier\ApiDatos\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Aleja\Desktop\ntier\ApiDatos\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Aleja\Desktop\ntier\ApiDatos\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Aleja\Desktop\ntier\ApiDatos\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Aleja\Desktop\ntier\ApiDatos\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Aleja\Desktop\ntier\ApiDatos\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Aleja\Desktop\ntier\ApiDatos\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Aleja\Desktop\ntier\ApiDatos\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\Aleja\Desktop\ntier\ApiDatos\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Aleja\Desktop\ntier\ApiDatos\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Aleja\Desktop\ntier\ApiDatos\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Aleja\Desktop\ntier\ApiDatos\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Aleja\Desktop\ntier\ApiDatos\obj\Debug\net6.0\Api.csproj.AssemblyReference.cache
+C:\Users\Aleja\Desktop\ntier\ApiDatos\obj\Debug\net6.0\Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aleja\Desktop\ntier\ApiDatos\obj\Debug\net6.0\Api.AssemblyInfoInputs.cache
+C:\Users\Aleja\Desktop\ntier\ApiDatos\obj\Debug\net6.0\Api.AssemblyInfo.cs
+C:\Users\Aleja\Desktop\ntier\ApiDatos\obj\Debug\net6.0\Api.csproj.CoreCompileInputs.cache
+C:\Users\Aleja\Desktop\ntier\ApiDatos\obj\Debug\net6.0\Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Aleja\Desktop\ntier\ApiDatos\obj\Debug\net6.0\Api.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\Aleja\Desktop\ntier\ApiDatos\obj\Debug\net6.0\staticwebassets.build.json
+c:\Users\Aleja\Desktop\ntier\ApiDatos\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Aleja\Desktop\ntier\ApiDatos\obj\Debug\net6.0\scopedcss\bundle\Api.styles.css
+c:\Users\Aleja\Desktop\ntier\ApiDatos\obj\Debug\net6.0\Api.csproj.CopyComplete
+C:\Users\Aleja\Desktop\ntier\ApiDatos\obj\Debug\net6.0\Api.dll
+C:\Users\Aleja\Desktop\ntier\ApiDatos\obj\Debug\net6.0\refint\Api.dll
+C:\Users\Aleja\Desktop\ntier\ApiDatos\obj\Debug\net6.0\Api.pdb
+c:\Users\Aleja\Desktop\ntier\ApiDatos\obj\Debug\net6.0\Api.genruntimeconfig.cache
+c:\Users\Aleja\Desktop\ntier\ApiDatos\obj\Debug\net6.0\ref\Api.dll
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\ntier\ApiDatos\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\ntier\ApiDatos\bin\Debug\net6.0\appsettings.json
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\ntier\ApiDatos\bin\Debug\net6.0\Api.exe
+c:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\ntier\ApiDatos\bin\Debug\net6.0\Api.deps.json
+c:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\ntier\ApiDatos\bin\Debug\net6.0\Api.runtimeconfig.json
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\ntier\ApiDatos\bin\Debug\net6.0\Api.dll
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\ntier\ApiDatos\bin\Debug\net6.0\Api.pdb
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\ntier\ApiDatos\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\ntier\ApiDatos\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\ntier\ApiDatos\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\ntier\ApiDatos\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\ntier\ApiDatos\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\ntier\ApiDatos\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\ntier\ApiDatos\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\ntier\ApiDatos\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\ntier\ApiDatos\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\ntier\ApiDatos\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\ntier\ApiDatos\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\ntier\ApiDatos\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\ntier\ApiDatos\obj\Debug\net6.0\Api.csproj.AssemblyReference.cache
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\ntier\ApiDatos\obj\Debug\net6.0\Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\ntier\ApiDatos\obj\Debug\net6.0\Api.AssemblyInfoInputs.cache
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\ntier\ApiDatos\obj\Debug\net6.0\Api.AssemblyInfo.cs
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\ntier\ApiDatos\obj\Debug\net6.0\Api.csproj.CoreCompileInputs.cache
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\ntier\ApiDatos\obj\Debug\net6.0\Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\ntier\ApiDatos\obj\Debug\net6.0\Api.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\ntier\ApiDatos\obj\Debug\net6.0\staticwebassets.build.json
+c:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\ntier\ApiDatos\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\ntier\ApiDatos\obj\Debug\net6.0\scopedcss\bundle\Api.styles.css
+c:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\ntier\ApiDatos\obj\Debug\net6.0\Api.csproj.CopyComplete
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\ntier\ApiDatos\obj\Debug\net6.0\Api.dll
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\ntier\ApiDatos\obj\Debug\net6.0\refint\Api.dll
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\ntier\ApiDatos\obj\Debug\net6.0\Api.pdb
+c:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\ntier\ApiDatos\obj\Debug\net6.0\Api.genruntimeconfig.cache
+c:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\ntier\ApiDatos\obj\Debug\net6.0\ref\Api.dll
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Entidad Financiera\ApiDatos\obj\Debug\net6.0\Api.csproj.AssemblyReference.cache
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Entidad Financiera\ApiDatos\obj\Debug\net6.0\Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Entidad Financiera\ApiDatos\obj\Debug\net6.0\Api.AssemblyInfoInputs.cache
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Entidad Financiera\ApiDatos\obj\Debug\net6.0\Api.AssemblyInfo.cs
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Entidad Financiera\ApiDatos\obj\Debug\net6.0\Api.csproj.CoreCompileInputs.cache
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Entidad Financiera\ApiDatos\obj\Debug\net6.0\Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Entidad Financiera\ApiDatos\obj\Debug\net6.0\Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Entidad Financiera\ApiDatos\obj\Debug\net6.0\Api.dll
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Entidad Financiera\ApiDatos\obj\Debug\net6.0\refint\Api.dll
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Entidad Financiera\ApiDatos\obj\Debug\net6.0\Api.pdb
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Entidad Financiera\ApiDatos\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Entidad Financiera\ApiDatos\bin\Debug\net6.0\appsettings.json
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Entidad Financiera\ApiDatos\bin\Debug\net6.0\Api.exe
+c:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Entidad Financiera\ApiDatos\bin\Debug\net6.0\Api.deps.json
+c:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Entidad Financiera\ApiDatos\bin\Debug\net6.0\Api.runtimeconfig.json
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Entidad Financiera\ApiDatos\bin\Debug\net6.0\Api.dll
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Entidad Financiera\ApiDatos\bin\Debug\net6.0\Api.pdb
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Entidad Financiera\ApiDatos\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Entidad Financiera\ApiDatos\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Entidad Financiera\ApiDatos\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Entidad Financiera\ApiDatos\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Entidad Financiera\ApiDatos\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Entidad Financiera\ApiDatos\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Entidad Financiera\ApiDatos\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Entidad Financiera\ApiDatos\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Entidad Financiera\ApiDatos\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Entidad Financiera\ApiDatos\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Entidad Financiera\ApiDatos\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Entidad Financiera\ApiDatos\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+c:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Entidad Financiera\ApiDatos\obj\Debug\net6.0\staticwebassets.build.json
+c:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Entidad Financiera\ApiDatos\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Entidad Financiera\ApiDatos\obj\Debug\net6.0\scopedcss\bundle\Api.styles.css
+c:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Entidad Financiera\ApiDatos\obj\Debug\net6.0\Api.csproj.CopyComplete
+c:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Entidad Financiera\ApiDatos\obj\Debug\net6.0\Api.genruntimeconfig.cache
+c:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Entidad Financiera\ApiDatos\obj\Debug\net6.0\ref\Api.dll
