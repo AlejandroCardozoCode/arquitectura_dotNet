@@ -1,0 +1,31 @@
+package controladorServicios;
+
+import java.io.IOException;
+import java.net.URI;
+import java.net.http.HttpClient;
+import java.net.http.HttpRequest;
+import java.net.http.HttpResponse;
+
+import javax.net.ssl.SSLContext;
+
+public class ServiciosProveedores {
+	SSLContext contexto;
+	private static final String END_POINT_REALIZAR_ENVIO = "https://localhost:7420/ObtenerPrecioProducto";
+	public ServiciosProveedores() {
+		this.contexto = new CreadorSSL().insecureContext();
+	}
+
+	public String realizarEnvio(int id) throws IOException, InterruptedException {
+
+		HttpClient client = HttpClient.newBuilder().sslContext(this.contexto).build();
+		HttpRequest request = HttpRequest.newBuilder()
+				.GET()
+				.header("id", String.format("%2d", id))
+				.uri(URI.create(END_POINT_REALIZAR_ENVIO))
+				.build();
+		HttpResponse response = client.send(request, HttpResponse.BodyHandlers.ofString());
+		return(response.body().toString());
+
+	}
+
+}

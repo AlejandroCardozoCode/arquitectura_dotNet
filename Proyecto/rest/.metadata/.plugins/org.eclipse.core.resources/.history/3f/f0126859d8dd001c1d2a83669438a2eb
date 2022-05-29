@@ -1,0 +1,23 @@
+import java.io.IOException;
+import java.net.URI;
+import java.net.http.HttpClient;
+import java.net.http.HttpRequest;
+import java.net.http.HttpResponse;
+
+public class Main {
+
+	// private static final String END_POINT =
+	// "http://localhost:5320/RealizarEnvio";
+	private static final String END_POINT = "https://localhost:7320/RealizarEnvio";
+
+	
+	public static void main(String[] args) throws IOException, InterruptedException {
+
+		HttpClient client = HttpClient.newBuilder().sslContext(new CreadorSSL().insecureContext()).build();
+		HttpRequest request = HttpRequest.newBuilder().GET().header("dirOrigen", "prueba origen")
+				.header("dirDestino", "prueba destion").uri(URI.create(END_POINT)).build();
+		HttpResponse response = client.send(request, HttpResponse.BodyHandlers.ofString());
+		System.out.println(response.body());
+
+	}
+}

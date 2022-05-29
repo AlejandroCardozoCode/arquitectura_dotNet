@@ -1,0 +1,50 @@
+package controladorServicios;
+
+import java.io.IOException;
+
+public class ControladorServicios {
+
+	ServiciosEnvios servicioEnvio;
+	ServiciosBanco servicioBanco;
+	ServiciosProveedores servicioProveedores;
+
+	public ControladorServicios() {
+		this.servicioEnvio = new ServiciosEnvios();
+		this.servicioBanco = new ServiciosBanco();
+		this.servicioProveedores = new ServiciosProveedores();
+	}
+
+	public String realizarEnvio(String dirOrigen, String dirDestino) throws IOException, InterruptedException {
+
+		return (this.servicioEnvio.realizarEnvio(dirOrigen, dirDestino));
+	}
+
+	public Boolean realizarCobro(int cedula, String valor) throws IOException, InterruptedException {
+
+		return (this.servicioBanco.realizarCobro(cedula, valor));
+	}
+
+	public Boolean comprobarInformacionFinanciera(int cedula, String numTarjeta, String fecha)
+			throws IOException, InterruptedException {
+
+		return (this.servicioBanco.comprobarInfomracionFinanciera(cedula, numTarjeta, fecha));
+	}
+
+	public String productoPorId(int id) throws IOException, InterruptedException {
+		return (this.servicioProveedores.productoPorId(id));
+	}
+
+	public String productos() throws IOException, InterruptedException {
+		return (this.servicioProveedores.productos());
+	}
+
+	public String agregarProducto(int id, String nombre, int precio, int unidades, String presentacion)
+			throws IOException, InterruptedException {
+		return (this.servicioProveedores.agregarProducto(id, nombre, precio, unidades, presentacion));
+	}
+	public String comprarProducto(int id, int cantidad)
+			throws IOException, InterruptedException {
+		return (this.servicioProveedores.agregarProducto(id, nombre, precio, unidades, presentacion));
+	}
+
+}

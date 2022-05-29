@@ -1,0 +1,56 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = safsf
+build_property.RootNamespace = safsf
+build_property.ProjectDir = c:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Proyecto\Cruz verde\Presentacion\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = c:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Proyecto\Cruz verde\Presentacion
+build_property._RazorSourceGeneratorDebug = 
+
+[c:/Users/Aleja/Documents/GitHub/arquitectura_dotNet/Proyecto/Cruz verde/Presentacion/Views/Home/AgregarProducto.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBZ3JlZ2FyUHJvZHVjdG8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Aleja/Documents/GitHub/arquitectura_dotNet/Proyecto/Cruz verde/Presentacion/Views/Home/BuscarCodigo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxCdXNjYXJDb2RpZ28uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Aleja/Documents/GitHub/arquitectura_dotNet/Proyecto/Cruz verde/Presentacion/Views/Home/index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxpbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Aleja/Documents/GitHub/arquitectura_dotNet/Proyecto/Cruz verde/Presentacion/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Aleja/Documents/GitHub/arquitectura_dotNet/Proyecto/Cruz verde/Presentacion/Views/Home/Productos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcm9kdWN0b3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Aleja/Documents/GitHub/arquitectura_dotNet/Proyecto/Cruz verde/Presentacion/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Aleja/Documents/GitHub/arquitectura_dotNet/Proyecto/Cruz verde/Presentacion/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Aleja/Documents/GitHub/arquitectura_dotNet/Proyecto/Cruz verde/Presentacion/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Aleja/Documents/GitHub/arquitectura_dotNet/Proyecto/Cruz verde/Presentacion/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Aleja/Documents/GitHub/arquitectura_dotNet/Proyecto/Cruz verde/Presentacion/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-uy76xdbx9x

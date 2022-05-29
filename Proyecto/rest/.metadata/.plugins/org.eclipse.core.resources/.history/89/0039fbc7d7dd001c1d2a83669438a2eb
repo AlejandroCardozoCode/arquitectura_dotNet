@@ -1,0 +1,17 @@
+package controladorServicios;
+
+import java.io.IOException;
+
+public class ControladorServicios {
+	
+	
+	ServiciosEnvios servicioEnvio ;
+	public ControladorServicios() {
+		this.servicioEnvio = new ServiciosEnvios();
+	}
+	
+	private String realizarEnvio() throws IOException, InterruptedException {
+		
+		return (this.servicioEnvio.realizarEnvio());
+	}
+}

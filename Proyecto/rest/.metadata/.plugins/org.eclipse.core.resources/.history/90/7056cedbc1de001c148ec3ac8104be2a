@@ -1,0 +1,18 @@
+import java.io.IOException;
+import java.net.URI;
+import java.net.http.HttpClient;
+import java.net.http.HttpRequest;
+import java.net.http.HttpResponse;
+import java.util.HashMap;
+
+import controladorServicios.ControladorServicios;
+
+public class Main {
+	
+	public static void main(String[] args) throws IOException, InterruptedException {
+		ControladorServicios controlador = new ControladorServicios();
+		HashMap <String, Integer>respuesta = controlador.buscarMenorPrecioProducto(1889);
+		System.out.println(respuesta.get("tienda"));
+		System.out.println(respuesta.get("precio"));
+	}
+}

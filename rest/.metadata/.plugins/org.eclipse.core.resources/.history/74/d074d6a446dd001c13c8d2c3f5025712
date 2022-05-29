@@ -1,0 +1,34 @@
+import java.io.IOException;
+import java.net.URI;
+import java.net.http.HttpClient;
+import java.net.http.HttpRequest;
+import java.net.http.HttpResponse;
+
+public class Main {
+
+	private static final String END_POINT = "https://localhost:7320/RealizarEnvio";
+
+	public static void main(String[] args) throws IOException, InterruptedException {
+		System.out.println("hola");
+		SSLContext context = SSLContext.getInstance("TLSv1.2");
+		TrustManager[] trustManager = new TrustManager[] {
+		    new X509TrustManager() {
+		       public X509Certificate[] getAcceptedIssuers() {
+		           return new X509Certificate[0];
+		       }
+		       public void checkClientTrusted(X509Certificate[] certificate, String str) {}
+		       public void checkServerTrusted(X509Certificate[] certificate, String str) {}
+		    }
+		};
+		context.init(null, trustManager, new SecureRandom());
+
+		SSLConnectionSocketFactory socketFactory = new SSLConnectionSocketFactory(context,
+		        SSLConnectionSocketFactory.ALLOW_ALL_HOSTNAME_VERIFIER);
+		HttpClient client = HttpClient.newHttpClient();
+		HttpRequest request = HttpRequest.newBuilder().GET().header("idOrigen", "prueba origen")
+				.header("idDestino", "prueba destion").header("accept", "application/json").uri(URI.create(END_POINT))
+				.build();
+		HttpResponse<String> response = client.send(request, HttpResponse.BodyHandlers.ofString());
+
+	}
+}

@@ -1,0 +1,81 @@
+package controladorServicios;
+
+import java.io.IOException;
+import java.net.URI;
+import java.net.http.HttpClient;
+import java.net.http.HttpRequest;
+import java.net.http.HttpResponse;
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.List;
+
+import javax.net.ssl.SSLContext;
+
+public class ServiciosProveedores {
+	SSLContext contexto;
+	private static final String END_POINT_PRODUCTO_POR_ID = "https://localhost:7420/ObtenerPrecioProducto";
+	private static final String END_POINT_PRODUCTOS = "https://localhost:7420/ObtenerProductos";
+	private static final String END_POINT_AGREGAR_PRODUCTO = "https://localhost:7420/AgregarProducto";
+	private static final String END_POINT_COMPRAR_PRODUCTO = "https://localhost:7420/ComprarProducto";
+	private final List<String> LISTA_END_POINT_PRODUCTO_POR_ID = new ArrayList<String>();
+
+	public ServiciosProveedores() {
+		this.contexto = new CreadorSSL().insecureContext();
+		this.LISTA_END_POINT_PRODUCTO_POR_ID.add(END_POINT_PRODUCTO_POR_ID);
+	}
+
+	public HashMap<Integer, Integer> buscarMenorPrecioProducto(int id) throws IOException, InterruptedException {
+
+		HashMap<Integer,Integer> listaPrecios = new HashMap();
+		int precio = 999999;
+		int idTienda = 0;
+		HttpClient client = HttpClient.newBuilder().sslContext(this.contexto).build();
+		for (int i = 0; i < this.LISTA_END_POINT_PRODUCTO_POR_ID.size(); i++) {
+			HttpRequest request = HttpRequest.newBuilder().GET().header("id", String.format("%2d", id))
+					.uri(URI.create(this.LISTA_END_POINT_PRODUCTO_POR_ID.get(i))).build();
+			HttpResponse response = client.send(request, HttpResponse.BodyHandlers.ofString());
+			if(Integer.parseInt(response.body().toString()) < precio) {
+				precio = Integer.parseInt(response.body().toString());
+				idTienda = i;
+			}
+		}
+		listaPrecios.put(idTienda, precio);
+		return listaPrecios;
+
+	}
+
+	public String productos() throws IOException, InterruptedException {
+
+		HttpClient client = HttpClient.newBuilder().sslContext(this.contexto).build();
+		HttpRequest request = HttpRequest.newBuilder().GET().uri(URI.create(END_POINT_PRODUCTOS)).build();
+		HttpResponse response = client.send(request, HttpResponse.BodyHandlers.ofString());
+		return (response.body().toString());
+
+	}
+
+	public String agregarProducto(int id, String nombre, int precio, int unidades, String presentacion)
+			throws IOException, InterruptedException {
+
+		String cliente = String.format(
+				"{\"idproducto\":%2d,\"nombre\":\"%s\",\"precio\":\"%2d\",\"unidades\":\"%2d\",\"presentacion\":\"%s\"}",
+				id, nombre, precio, unidades, presentacion);
+		HttpClient client = HttpClient.newBuilder().sslContext(this.contexto).build();
+		HttpRequest request = HttpRequest.newBuilder().POST(HttpRequest.BodyPublishers.ofString(cliente))
+				.header("Content-type", "application/json").uri(URI.create(END_POINT_AGREGAR_PRODUCTO)).build();
+		HttpResponse response = client.send(request, HttpResponse.BodyHandlers.ofString());
+		return ((response.body().toString()));
+
+	}
+
+	public String comprarProducto(int id, int cantidad) throws IOException, InterruptedException {
+
+		String cliente = String.format("{\"id\":%2d,\"cantidad\":\"%2d\"}", id, cantidad);
+		HttpClient client = HttpClient.newBuilder().sslContext(this.contexto).build();
+		HttpRequest request = HttpRequest.newBuilder().POST(HttpRequest.BodyPublishers.ofString(cliente))
+				.header("Content-type", "application/json").uri(URI.create(END_POINT_COMPRAR_PRODUCTO)).build();
+		HttpResponse response = client.send(request, HttpResponse.BodyHandlers.ofString());
+		return ((response.body().toString()));
+
+	}
+
+}

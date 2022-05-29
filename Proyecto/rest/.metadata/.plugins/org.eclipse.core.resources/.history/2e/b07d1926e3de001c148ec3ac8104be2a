@@ -1,0 +1,52 @@
+package controladorServicios;
+
+import java.io.IOException;
+import java.net.URI;
+import java.net.http.HttpClient;
+import java.net.http.HttpRequest;
+import java.net.http.HttpResponse;
+import java.util.ArrayList;
+import java.util.List;
+
+import javax.net.ssl.SSLContext;
+
+public class ServiciosBanco {
+	SSLContext contexto;
+	private final List<String> LISTA_END_POINTS = new ArrayList<String>();
+
+
+	public ServiciosBanco() {
+		this.contexto = new CreadorSSL().insecureContext();
+		this.LISTA_END_POINTS.add("https://localhost:7220");
+
+//		this.LISTA_END_POINTS.add("https://localhost:7221");
+	}
+
+	public Boolean realizarCobro(int id, String valor, int pasarelaPago) throws IOException, InterruptedException {
+
+		HttpClient client = HttpClient.newBuilder().sslContext(this.contexto).build();
+		HttpRequest request = HttpRequest.newBuilder()
+				.GET()
+				.header("id", String.format("%2d", id))
+				.header("valor", valor)
+				.uri(URI.create(LISTA_END_POINTS.get(pasarelaPago)+"/RealizarPago"))
+				.build();
+		HttpResponse response = client.send(request, HttpResponse.BodyHandlers.ofString());
+		return(Boolean.parseBoolean(response.body().toString()));
+
+	}
+	public Boolean comprobarInfomracionFinanciera(int cedula, String numTarjeta, String fecha, int pasarelaPago) throws IOException, InterruptedException {
+
+		String cliente = String.format("{\"cedula\":%2d,\"nombre\":\"\",\"apellido\":\"\",\"dinero\":0,\"telefono\":\"\",\"correo\":\"\",\"numtarjeta\":\"%s\",\"fechaexp\":\"%s\"}", cedula, numTarjeta,fecha);
+		HttpClient client = HttpClient.newBuilder().sslContext(this.contexto).build();
+		HttpRequest request = HttpRequest.newBuilder()
+				.POST(HttpRequest.BodyPublishers.ofString(cliente))
+				.header("Content-type", "application/json")
+				.uri(URI.create(LISTA_END_POINTS.get(pasarelaPago)+"/ComprobarInfo"))
+				.build();
+		HttpResponse response = client.send(request, HttpResponse.BodyHandlers.ofString());
+		return(Boolean.parseBoolean(response.body().toString()));
+
+	}
+
+}

@@ -1,0 +1,31 @@
+package controladorServicios;
+
+import java.io.IOException;
+
+public class ControladorServicios {
+	
+	
+	ServiciosEnvios servicioEnvio ;
+	ServiciosBanco servicioBanco ;
+	ServiciosProveedores servicioProveedores ;
+	public ControladorServicios() {
+		this.servicioEnvio = new ServiciosEnvios();
+		this.servicioBanco = new ServiciosBanco();
+	}
+	
+	public String realizarEnvio(String dirOrigen, String dirDestino) throws IOException, InterruptedException {
+		
+		return (this.servicioEnvio.realizarEnvio(dirOrigen, dirDestino));
+	}
+	public Boolean realizarCobro(int cedula, String valor) throws IOException, InterruptedException {
+		
+		return (this.servicioBanco.realizarCobro(cedula,valor));
+	}
+	public Boolean comprobarInformacionFinanciera(int cedula, String numTarjeta, String fecha) throws IOException, InterruptedException {
+		
+		return (this.servicioBanco.comprobarInfomracionFinanciera(cedula,numTarjeta,fecha));
+	}
+	public String productoPorId()
+
+
+}

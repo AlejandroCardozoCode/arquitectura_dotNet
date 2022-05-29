@@ -1,0 +1,44 @@
+package controladorServicios;
+
+import java.io.IOException;
+import java.net.URI;
+import java.net.http.HttpClient;
+import java.net.http.HttpRequest;
+import java.net.http.HttpResponse;
+
+import javax.net.ssl.SSLContext;
+
+public class ServiciosBanco {
+	SSLContext contexto;
+	private static final String END_POINT_REALIZAR_PAGO = "https://localhost:7220/RealizarPago";
+	private static final String END_POINT_COMPROBAR_INFO = "https://localhost:7220/ComprobarInfo";
+	public ServiciosBanco() {
+		this.contexto = new CreadorSSL().insecureContext();
+	}
+
+	public Boolean realizarPago(String id, String valor) throws IOException, InterruptedException {
+
+		HttpClient client = HttpClient.newBuilder().sslContext(this.contexto).build();
+		HttpRequest request = HttpRequest.newBuilder()
+				.GET()
+				.header("id", id)
+				.header("valor", valor)
+				.uri(URI.create(END_POINT_REALIZAR_PAGO))
+				.build();
+		HttpResponse response = client.send(request, HttpResponse.BodyHandlers.ofString());
+		return(Boolean.parseBoolean(response.body().toString()));
+
+	}
+	public Boolean comprobarInfomracionFinanciera(int cedula, String numTarjeta, String fecha) throws IOException, InterruptedException {
+
+		HttpClient client = HttpClient.newBuilder().sslContext(this.contexto).build();
+		HttpRequest request = HttpRequest.newBuilder()
+				.POST(HttpRequest.BodyPublishers.ofString(String.format("{\"cedula\":%2d,\"nombre\":\"\",\"apellido\":\"\",\"dinero\":0,\"telefono\":\"\",\"correo\":\"\",\"numtarjeta\":%s,\"fechaexp\":%s,}", aStringVar, anIntVar);))
+				.uri(URI.create(END_POINT_REALIZAR_PAGO))
+				.build();
+		HttpResponse response = client.send(request, HttpResponse.BodyHandlers.ofString());
+		return(Boolean.parseBoolean(response.body().toString()));
+
+	}
+
+}

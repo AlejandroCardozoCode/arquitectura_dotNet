@@ -1,0 +1,15 @@
+package controladorServicios;
+
+public class ControladorServicios {
+	
+	
+	ServiciosEnvios servicioEnvio ;
+	public ControladorServicios() {
+		this.servicioEnvio = new ServiciosEnvios();
+	}
+	
+	private String realizarEnvio() {
+		
+		return this.servicioEnvio.realizarEnvio();
+	}
+}

@@ -1,0 +1,45 @@
+import java.io.IOException;
+import java.net.URI;
+import java.net.http.HttpClient;
+import java.net.http.HttpRequest;
+import java.net.http.HttpResponse;
+
+import javax.net.ssl.SSLContext;
+import javax.net.ssl.TrustManager;
+import javax.net.ssl.X509TrustManager;
+
+public class Main {
+
+	//private static final String END_POINT = "http://localhost:5320/RealizarEnvio";
+	private static final String END_POINT = "https://localhost:7320/RealizarEnvio";
+static SSLContext insecureContext() {
+    TrustManager[] noopTrustManager = new TrustManager[]{
+        new X509TrustManager() {
+            public void checkClientTrusted(X509Certificate[] xcs, String string) {}
+            public void checkServerTrusted(X509Certificate[] xcs, String string) {}
+            public X509Certificate[] getAcceptedIssuers() {
+                return null;
+            }
+        }
+    };
+    try {
+        SSLContext sc = SSLContext.getInstance("ssl");
+        sc.init(null, noopTrustManager, null);
+        return sc;
+    } catch (KeyManagementException | NoSuchAlgorithmException ex) {}
+}  
+
+	public static void main(String[] args) throws IOException, InterruptedException {
+
+		HttpClient client = HttpClient.newHttpClient();
+		HttpRequest request = HttpRequest.newBuilder()
+				.GET()
+				.header("dirOrigen", "prueba origen")
+				.header("dirDestino", "prueba destion")
+				.uri(URI.create(END_POINT))
+				.build();
+		HttpResponse response = client.send(request, HttpResponse.BodyHandlers.ofString());
+		System.out.println(response.statusCode());
+
+	}
+}

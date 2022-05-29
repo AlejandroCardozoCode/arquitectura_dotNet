@@ -1,0 +1,21 @@
+import java.net.URI;
+import java.net.http.HttpClient;
+import java.net.http.HttpRequest;
+import java.net.http.HttpResponse;
+
+public class Main {
+
+		private static final String END_POINT = "https://localhost:7320/RealizarEnvio"; 
+	public static void main (String [] args) {
+		System.out.println("hola");
+		HttpClient client=HttpClient.newHttpClient();
+		HttpRequest request=HttpRequest.newBuilder()
+		        .GET()
+		        .header("idOrigen","prueba origen")
+		        .header("idDestino","prueba destion")
+		        .header("accept","application/json")
+		        .uri(URI.create(END_POINT))
+		        .build();
+		HttpResponse<String>response=client.send(request,HttpResponse.BodyHandlers.ofString());
+	}
+}

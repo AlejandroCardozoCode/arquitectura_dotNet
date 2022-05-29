@@ -1,0 +1,27 @@
+package controladorServicios;
+
+import java.io.IOException;
+import java.net.URI;
+import java.net.http.HttpClient;
+import java.net.http.HttpRequest;
+import java.net.http.HttpResponse;
+
+import javax.net.ssl.SSLContext;
+
+public class ServiciosEnvios {
+	SSLContext contexto;
+	private static final String END_POINT_REALIZAR_ENVIO = "https://localhost:7320/RealizarEnvio";
+	public ServiciosEnvios() {
+		this.contexto = new CreadorSSL().insecureContext();
+	}
+
+	private String realizarEnvio(String[] args) throws IOException, InterruptedException {
+
+		HttpClient client = HttpClient.newBuilder().sslContext(new CreadorSSL().insecureContext()).build();
+		HttpRequest request = HttpRequest.newBuilder().GET().header("dirOrigen", "prueba origen")
+				.header("dirDestino", "prueba destion").uri(URI.create(END_POINT_REALIZAR_ENVIO)).build();
+		HttpResponse response = client.send(request, HttpResponse.BodyHandlers.ofString());
+		return(response.body().toString());
+
+	}
+}

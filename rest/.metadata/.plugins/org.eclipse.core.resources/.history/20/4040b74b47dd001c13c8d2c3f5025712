@@ -1,0 +1,29 @@
+import java.io.IOException;
+import java.net.URI;
+import java.net.http.HttpClient;
+import java.net.http.HttpRequest;
+import java.net.http.HttpResponse;
+
+public class Main {
+
+	private static final String END_POINT = "https://localhost:7320/RealizarEnvio";
+
+	public static void main(String[] args) throws IOException, InterruptedException {
+		System.out.println("hola");
+		httpClient = HttpClients.custom().
+		        setSSLHostnameVerifier(NoopHostnameVerifier.INSTANCE).
+		            setSSLContext(new SSLContextBuilder().loadTrustMaterial(null, new TrustStrategy()
+		            {
+		                public boolean isTrusted(X509Certificate[] arg0, String arg1) throws CertificateException
+		                {
+		                    return true;
+		                }
+		            }).build()).build();
+		HttpClient client = HttpClient.newHttpClient();
+		HttpRequest request = HttpRequest.newBuilder().GET().header("idOrigen", "prueba origen")
+				.header("idDestino", "prueba destion").header("accept", "application/json").uri(URI.create(END_POINT))
+				.build();
+		HttpResponse<String> response = client.send(request, HttpResponse.BodyHandlers.ofString());
+
+	}
+}

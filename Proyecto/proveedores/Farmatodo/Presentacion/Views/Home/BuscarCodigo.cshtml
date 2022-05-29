@@ -1,0 +1,38 @@
+<h1>Busqueda de un producto</h1>
+<br /> <br />
+@using (Html.BeginForm("BuscarCodigo", "Home", FormMethod.Get))
+{
+    @Html.TextBox("codigo")<input } type="submit" value="Buscar" />
+
+}
+<div class="table">
+    <table class="table table-bordered table-hover">
+        <thead>
+            <tr>
+            </tr>
+        </thead>
+        @{
+            if (Model != null)
+            {
+                foreach (var Data in Model)
+                {
+                    <tr>
+                        <td>@Data.Idproducto</td>
+                        <td>@Data.Nombre</td>
+                        <td>@Data.Precio</td>
+                        <td>@Data.Unidades</td>
+                        <td>@Data.Presentacion</td>
+                    </tr>
+                }
+            }
+        }
+        <tr>
+            <td>
+
+            </td>
+        </tr>
+        <tbody>
+
+        </tbody>
+    </table>
+</div>

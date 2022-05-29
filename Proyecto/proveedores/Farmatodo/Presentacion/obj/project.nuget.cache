@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ujG6rD6YfeHFOwDereuSAb6e0A480ah7I7sXGwdhtRBfT4BBmFLVley9N2aH83qP+9SfbY6w5dpa/6LMtbAhfQ==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\Aleja\\Documents\\GitHub\\arquitectura_dotNet\\Proveedor 1\\Presentacion\\safsf.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aleja\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

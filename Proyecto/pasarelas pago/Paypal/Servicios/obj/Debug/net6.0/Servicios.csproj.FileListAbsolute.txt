@@ -1,0 +1,108 @@
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\ntier\Servicios\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\ntier\Servicios\bin\Debug\net6.0\appsettings.json
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\ntier\Servicios\bin\Debug\net6.0\Servicios.exe
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\ntier\Servicios\bin\Debug\net6.0\Servicios.deps.json
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\ntier\Servicios\bin\Debug\net6.0\Servicios.runtimeconfig.json
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\ntier\Servicios\bin\Debug\net6.0\Servicios.dll
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\ntier\Servicios\bin\Debug\net6.0\Servicios.pdb
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\ntier\Servicios\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\ntier\Servicios\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\ntier\Servicios\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\ntier\Servicios\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\ntier\Servicios\obj\Debug\net6.0\Servicios.csproj.AssemblyReference.cache
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\ntier\Servicios\obj\Debug\net6.0\Servicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\ntier\Servicios\obj\Debug\net6.0\Servicios.AssemblyInfoInputs.cache
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\ntier\Servicios\obj\Debug\net6.0\Servicios.AssemblyInfo.cs
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\ntier\Servicios\obj\Debug\net6.0\Servicios.csproj.CoreCompileInputs.cache
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\ntier\Servicios\obj\Debug\net6.0\Servicios.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\ntier\Servicios\obj\Debug\net6.0\Servicios.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\ntier\Servicios\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\ntier\Servicios\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\ntier\Servicios\obj\Debug\net6.0\scopedcss\bundle\Servicios.styles.css
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\ntier\Servicios\obj\Debug\net6.0\Servicios.csproj.CopyComplete
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\ntier\Servicios\obj\Debug\net6.0\Servicios.dll
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\ntier\Servicios\obj\Debug\net6.0\refint\Servicios.dll
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\ntier\Servicios\obj\Debug\net6.0\Servicios.pdb
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\ntier\Servicios\obj\Debug\net6.0\Servicios.genruntimeconfig.cache
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\ntier\Servicios\obj\Debug\net6.0\ref\Servicios.dll
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\ntier\Servicios\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\ntier\Servicios\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\ntier\Servicios\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\ntier\Servicios\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\ntier\Servicios\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\ntier\Servicios\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\ntier\Servicios\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\ntier\Servicios\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\ntier\Servicios\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Entidad Financiera\Servicios\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Entidad Financiera\Servicios\bin\Debug\net6.0\appsettings.json
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Entidad Financiera\Servicios\bin\Debug\net6.0\Servicios.exe
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Entidad Financiera\Servicios\bin\Debug\net6.0\Servicios.deps.json
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Entidad Financiera\Servicios\bin\Debug\net6.0\Servicios.runtimeconfig.json
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Entidad Financiera\Servicios\bin\Debug\net6.0\Servicios.dll
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Entidad Financiera\Servicios\bin\Debug\net6.0\Servicios.pdb
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Entidad Financiera\Servicios\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Entidad Financiera\Servicios\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Entidad Financiera\Servicios\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Entidad Financiera\Servicios\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Entidad Financiera\Servicios\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Entidad Financiera\Servicios\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Entidad Financiera\Servicios\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Entidad Financiera\Servicios\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Entidad Financiera\Servicios\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Entidad Financiera\Servicios\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Entidad Financiera\Servicios\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Entidad Financiera\Servicios\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Entidad Financiera\Servicios\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Entidad Financiera\Servicios\obj\Debug\net6.0\Servicios.csproj.AssemblyReference.cache
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Entidad Financiera\Servicios\obj\Debug\net6.0\Servicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Entidad Financiera\Servicios\obj\Debug\net6.0\Servicios.AssemblyInfoInputs.cache
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Entidad Financiera\Servicios\obj\Debug\net6.0\Servicios.AssemblyInfo.cs
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Entidad Financiera\Servicios\obj\Debug\net6.0\Servicios.csproj.CoreCompileInputs.cache
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Entidad Financiera\Servicios\obj\Debug\net6.0\Servicios.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Entidad Financiera\Servicios\obj\Debug\net6.0\Servicios.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Entidad Financiera\Servicios\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Entidad Financiera\Servicios\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Entidad Financiera\Servicios\obj\Debug\net6.0\scopedcss\bundle\Servicios.styles.css
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Entidad Financiera\Servicios\obj\Debug\net6.0\Servicios.csproj.CopyComplete
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Entidad Financiera\Servicios\obj\Debug\net6.0\Servicios.dll
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Entidad Financiera\Servicios\obj\Debug\net6.0\refint\Servicios.dll
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Entidad Financiera\Servicios\obj\Debug\net6.0\Servicios.pdb
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Entidad Financiera\Servicios\obj\Debug\net6.0\Servicios.genruntimeconfig.cache
+C:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Entidad Financiera\Servicios\obj\Debug\net6.0\ref\Servicios.dll
+c:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Proyecto\Paypal\Servicios\bin\Debug\net6.0\appsettings.Development.json
+c:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Proyecto\Paypal\Servicios\bin\Debug\net6.0\appsettings.json
+c:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Proyecto\Paypal\Servicios\bin\Debug\net6.0\Servicios.exe
+c:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Proyecto\Paypal\Servicios\bin\Debug\net6.0\Servicios.deps.json
+c:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Proyecto\Paypal\Servicios\bin\Debug\net6.0\Servicios.runtimeconfig.json
+c:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Proyecto\Paypal\Servicios\bin\Debug\net6.0\Servicios.dll
+c:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Proyecto\Paypal\Servicios\bin\Debug\net6.0\Servicios.pdb
+c:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Proyecto\Paypal\Servicios\bin\Debug\net6.0\Humanizer.dll
+c:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Proyecto\Paypal\Servicios\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+c:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Proyecto\Paypal\Servicios\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+c:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Proyecto\Paypal\Servicios\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+c:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Proyecto\Paypal\Servicios\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+c:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Proyecto\Paypal\Servicios\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+c:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Proyecto\Paypal\Servicios\bin\Debug\net6.0\Microsoft.OpenApi.dll
+c:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Proyecto\Paypal\Servicios\bin\Debug\net6.0\MySqlConnector.dll
+c:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Proyecto\Paypal\Servicios\bin\Debug\net6.0\Newtonsoft.Json.dll
+c:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Proyecto\Paypal\Servicios\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+c:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Proyecto\Paypal\Servicios\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+c:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Proyecto\Paypal\Servicios\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+c:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Proyecto\Paypal\Servicios\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+c:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Proyecto\Paypal\Servicios\obj\Debug\net6.0\Servicios.csproj.AssemblyReference.cache
+c:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Proyecto\Paypal\Servicios\obj\Debug\net6.0\Servicios.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Proyecto\Paypal\Servicios\obj\Debug\net6.0\Servicios.AssemblyInfoInputs.cache
+c:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Proyecto\Paypal\Servicios\obj\Debug\net6.0\Servicios.AssemblyInfo.cs
+c:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Proyecto\Paypal\Servicios\obj\Debug\net6.0\Servicios.csproj.CoreCompileInputs.cache
+c:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Proyecto\Paypal\Servicios\obj\Debug\net6.0\Servicios.MvcApplicationPartsAssemblyInfo.cs
+c:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Proyecto\Paypal\Servicios\obj\Debug\net6.0\Servicios.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Proyecto\Paypal\Servicios\obj\Debug\net6.0\staticwebassets.build.json
+c:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Proyecto\Paypal\Servicios\obj\Debug\net6.0\staticwebassets.development.json
+c:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Proyecto\Paypal\Servicios\obj\Debug\net6.0\scopedcss\bundle\Servicios.styles.css
+c:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Proyecto\Paypal\Servicios\obj\Debug\net6.0\Servicios.csproj.CopyComplete
+c:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Proyecto\Paypal\Servicios\obj\Debug\net6.0\Servicios.dll
+c:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Proyecto\Paypal\Servicios\obj\Debug\net6.0\refint\Servicios.dll
+c:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Proyecto\Paypal\Servicios\obj\Debug\net6.0\Servicios.pdb
+c:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Proyecto\Paypal\Servicios\obj\Debug\net6.0\Servicios.genruntimeconfig.cache
+c:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Proyecto\Paypal\Servicios\obj\Debug\net6.0\ref\Servicios.dll

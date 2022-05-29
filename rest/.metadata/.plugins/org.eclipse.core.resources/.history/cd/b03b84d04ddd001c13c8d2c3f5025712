@@ -1,0 +1,25 @@
+import java.io.IOException;
+import java.net.URI;
+import java.net.http.HttpClient;
+import java.net.http.HttpRequest;
+import java.net.http.HttpResponse;
+import java.util.concurrent.CompletableFuture;
+
+public class Main {
+
+	private static final String END_POINT = "http://localhost:5320/RealizarEnvio";
+
+	public static void main(String[] args) throws IOException, InterruptedException {
+
+		HttpClient client = HttpClient.newHttpClient();
+		HttpRequest request = HttpRequest.newBuilder()
+				.GET()
+				.header("idOrigen", "prueba origen")
+				.header("idDestino", "prueba destion")
+				.uri(URI.create(END_POINT))
+				.build();
+		CompletableFuture<String> response = client.sendAsync(request, HttpResponse.BodyHandlers.ofString()).thenApply(HttpResponse::body);
+		System.out.println(response);
+
+	}
+}
