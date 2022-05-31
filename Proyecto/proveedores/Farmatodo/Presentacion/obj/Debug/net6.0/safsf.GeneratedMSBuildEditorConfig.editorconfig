@@ -8,49 +8,49 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = safsf
 build_property.RootNamespace = safsf
-build_property.ProjectDir = c:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Proveedor 1\Presentacion\
+build_property.ProjectDir = c:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Proyecto\proveedores\Farmatodo\Presentacion\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = c:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Proveedor 1\Presentacion
+build_property.MSBuildProjectDirectory = c:\Users\Aleja\Documents\GitHub\arquitectura_dotNet\Proyecto\proveedores\Farmatodo\Presentacion
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Aleja/Documents/GitHub/arquitectura_dotNet/Proveedor 1/Presentacion/Views/Home/AgregarProducto.cshtml]
+[c:/Users/Aleja/Documents/GitHub/arquitectura_dotNet/Proyecto/proveedores/Farmatodo/Presentacion/Views/Home/AgregarProducto.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBZ3JlZ2FyUHJvZHVjdG8uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aleja/Documents/GitHub/arquitectura_dotNet/Proveedor 1/Presentacion/Views/Home/BuscarCodigo.cshtml]
+[c:/Users/Aleja/Documents/GitHub/arquitectura_dotNet/Proyecto/proveedores/Farmatodo/Presentacion/Views/Home/BuscarCodigo.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxCdXNjYXJDb2RpZ28uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aleja/Documents/GitHub/arquitectura_dotNet/Proveedor 1/Presentacion/Views/Home/index.cshtml]
+[c:/Users/Aleja/Documents/GitHub/arquitectura_dotNet/Proyecto/proveedores/Farmatodo/Presentacion/Views/Home/index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxpbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aleja/Documents/GitHub/arquitectura_dotNet/Proveedor 1/Presentacion/Views/Home/Privacy.cshtml]
+[c:/Users/Aleja/Documents/GitHub/arquitectura_dotNet/Proyecto/proveedores/Farmatodo/Presentacion/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aleja/Documents/GitHub/arquitectura_dotNet/Proveedor 1/Presentacion/Views/Home/Productos.cshtml]
+[c:/Users/Aleja/Documents/GitHub/arquitectura_dotNet/Proyecto/proveedores/Farmatodo/Presentacion/Views/Home/Productos.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcm9kdWN0b3MuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aleja/Documents/GitHub/arquitectura_dotNet/Proveedor 1/Presentacion/Views/Shared/Error.cshtml]
+[c:/Users/Aleja/Documents/GitHub/arquitectura_dotNet/Proyecto/proveedores/Farmatodo/Presentacion/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aleja/Documents/GitHub/arquitectura_dotNet/Proveedor 1/Presentacion/Views/Shared/_ValidationScriptsPartial.cshtml]
+[c:/Users/Aleja/Documents/GitHub/arquitectura_dotNet/Proyecto/proveedores/Farmatodo/Presentacion/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aleja/Documents/GitHub/arquitectura_dotNet/Proveedor 1/Presentacion/Views/_ViewImports.cshtml]
+[c:/Users/Aleja/Documents/GitHub/arquitectura_dotNet/Proyecto/proveedores/Farmatodo/Presentacion/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aleja/Documents/GitHub/arquitectura_dotNet/Proveedor 1/Presentacion/Views/_ViewStart.cshtml]
+[c:/Users/Aleja/Documents/GitHub/arquitectura_dotNet/Proyecto/proveedores/Farmatodo/Presentacion/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aleja/Documents/GitHub/arquitectura_dotNet/Proveedor 1/Presentacion/Views/Shared/_Layout.cshtml]
+[c:/Users/Aleja/Documents/GitHub/arquitectura_dotNet/Proyecto/proveedores/Farmatodo/Presentacion/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-uy76xdbx9x
